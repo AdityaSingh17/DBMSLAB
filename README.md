@@ -1,2 +1,2 @@
 # DBMSLAB
-This repository contains SQL programs for Database Management Systems Laboratory (17CSL57).
+This repository contains SQL programs for Database Management Systems Laboratory (17CSL58).
